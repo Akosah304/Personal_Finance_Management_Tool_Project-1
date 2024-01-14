@@ -49,4 +49,5 @@ Analyze the data to determine what month or category he spent more and to know i
 Given an annual income, find the difference of total expenses made the whole year from the annual income earned to determine the amount he was able to save and plot with a pie chart.
 
 ** Expenses pie chart**
-![](https://github.com/Akosah304/Personal_Finance_Management_Tool_Project-1/blob/main/Image/pie%20chart.png)
+
+![](https://github.com/Akosah304/Personal_Finance_Management_Tool_Project-1/blob/main/df_expenses_plot.png)
